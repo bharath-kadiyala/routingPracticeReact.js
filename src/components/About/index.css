@@ -1,0 +1,27 @@
+.about-component-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.about-log-sty {
+  height: 260px;
+  width: 220px;
+  margin-bottom: 25px;
+}
+
+.about-head {
+  font-size: 40px;
+  color: #6d396b;
+  font-weight: 500;
+  margin-bottom: 35px;
+}
+
+.about-pera {
+  font-size: 20px;
+  color: #6d396b;
+  font-weight: 500;
+}

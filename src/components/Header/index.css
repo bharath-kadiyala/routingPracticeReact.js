@@ -1,0 +1,41 @@
+* {
+  font-family: 'Roboto';
+  margin: 0;
+}
+
+.nav-con {
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px;
+  padding: 40px;
+  margin-bottom: 160px;
+}
+
+.log-con {
+  display: flex;
+}
+
+.img-sty {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.log-pera {
+  font-size: 17px;
+  font-weight: 600;
+  color: #12022f;
+}
+
+.unOrderList-con {
+  display: flex;
+  list-style-type: none;
+}
+
+.additional {
+  margin-right: 10px;
+}
+
+.linked-things {
+  text-decoration: none;
+}
